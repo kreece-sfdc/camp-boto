@@ -1,0 +1,413 @@
+[
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1529352042940,
+            "changeTime": 1529352042940,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1529352042940,
+            "changeTime": 1529352042940,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1529359956816,
+            "changeTime": 1529359956816,
+            "contentHash": "41a5c0b724da66fc2d4949fd97fb60e7219a66f9"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1529352042940,
+            "changeTime": 1529352042940,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1529352157325,
+            "changeTime": 1529352157325,
+            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/pages/FitbitAuth.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/pages/FitbitAuth.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 286,
+            "modifiedTime": 1529359956777,
+            "changeTime": 1529359956777,
+            "contentHash": "8f7c4148c4359325f58dd4b04468b7497bc918c7"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/pages/FitbitAuth.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/pages/FitbitAuth.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1529359956777,
+            "changeTime": 1529359956777,
+            "contentHash": "09e4571ea48f19b1c067f39877819a6f3c9b721d"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/objects/Auth_Storage__mdt/Auth_Storage__mdt.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/objects/Auth_Storage__mdt/Auth_Storage__mdt.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1529359956786,
+            "changeTime": 1529359956786,
+            "contentHash": "646b67b9840181476c659490956e40c8fdc8175b"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/objects/Auth_Storage__mdt/fields/Access__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/objects/Auth_Storage__mdt/fields/Access__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 369,
+            "modifiedTime": 1529359956786,
+            "changeTime": 1529359956786,
+            "contentHash": "7a0cf50315efba9b683d20bb63f5c983be894d4c"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/objects/Auth_Storage__mdt/fields/Refresh__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/objects/Auth_Storage__mdt/fields/Refresh__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 371,
+            "modifiedTime": 1529359956786,
+            "changeTime": 1529359956786,
+            "contentHash": "c7df446f9016bed8f57a8363f774fdf9c6a8d1cf"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/objects/Auth_Storage__mdt/fields/User__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/objects/Auth_Storage__mdt/fields/User__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 377,
+            "modifiedTime": 1529359956787,
+            "changeTime": 1529359956787,
+            "contentHash": "66f76232ff5b35e3fe941360f8a00794d151d118"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/layouts/Auth_Storage__mdt-Auth Storage Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/layouts/Auth_Storage__mdt-Auth Storage Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2606,
+            "modifiedTime": 1529359956789,
+            "changeTime": 1529359956789,
+            "contentHash": "cedafe9ece1954e6458d5037a4cf6294594e9aa5"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/classes/FitbitAuthHelper.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/classes/FitbitAuthHelper.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1529359956790,
+            "changeTime": 1529359956790,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/classes/FitbitAuthHelper.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/classes/FitbitAuthHelper.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5250,
+            "modifiedTime": 1529359956791,
+            "changeTime": 1529359956791,
+            "contentHash": "a07e16c60a46b3156d59543ee20a1ffad09e090b"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/classes/DeployMetadata.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/classes/DeployMetadata.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1529359956792,
+            "changeTime": 1529359956792,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/classes/DeployMetadata.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/classes/DeployMetadata.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 279,
+            "modifiedTime": 1529359956792,
+            "changeTime": 1529359956792,
+            "contentHash": "eac1477d6c5d05752e02a9b7910020c9ef22f97b"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/classes/FitbitAuthController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/classes/FitbitAuthController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1529359956793,
+            "changeTime": 1529359956793,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/classes/FitbitAuthController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/classes/FitbitAuthController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 512,
+            "modifiedTime": 1529359956793,
+            "changeTime": 1529359956793,
+            "contentHash": "7be57bca0012933af580245a897c1cd2ae273570"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5639,
+            "modifiedTime": 1529359956797,
+            "changeTime": 1529359956797,
+            "contentHash": "90fe09ca343903cbf17601381466517b9edf995d"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18714,
+            "modifiedTime": 1529359956811,
+            "changeTime": 1529359956811,
+            "contentHash": "184eead03f2ab4dc3474bc34c3dd1c19f29343cf"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5301,
+            "modifiedTime": 1529359956813,
+            "changeTime": 1529359956813,
+            "contentHash": "fa5ee3c060c0ac34ad714ba5fd7b7c0a239ba0e7"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5301,
+            "modifiedTime": 1529359956815,
+            "changeTime": 1529359956815,
+            "contentHash": "fa5ee3c060c0ac34ad714ba5fd7b7c0a239ba0e7"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/remoteSiteSettings/Fitbit.remoteSite-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/remoteSiteSettings/Fitbit.remoteSite-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 257,
+            "modifiedTime": 1529359956816,
+            "changeTime": 1529359956816,
+            "contentHash": "376cd837e24de01284e475a7e204ca86aec30f65"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/pages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1529359956777,
+            "changeTime": 1529359956777,
+            "contentHash": "b3c16f34fd0592f91f8c205cf844e0de202f2259"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/objects/Auth_Storage__mdt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/objects/Auth_Storage__mdt",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1529359956786,
+            "changeTime": 1529359956786,
+            "contentHash": "a26b89917aa6618b56e01761075b45531afe0bb3"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1529359956786,
+            "changeTime": 1529359956786,
+            "contentHash": "6301dad0300d1ffd3fffb120a604fc4eef870fad"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/objects/Auth_Storage__mdt/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/objects/Auth_Storage__mdt/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1529359956786,
+            "changeTime": 1529359956786,
+            "contentHash": "b344b861fe00fa13b2538193448395250d88b3f6"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1529359956789,
+            "changeTime": 1529359956789,
+            "contentHash": "f8302292fad106fd552f72f797111b77ae81e4b7"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1529359956793,
+            "changeTime": 1529359956793,
+            "contentHash": "62f8b4f85af53888431d749c5c7c8cea4b537d5a"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1529359956815,
+            "changeTime": 1529359956815,
+            "contentHash": "15d8b68bef3142dc9da80c94e822e4e0e39b6ecb"
+        }
+    ],
+    [
+        "/Users/kreece/sfdx/camp-boto/force-app/main/default/remoteSiteSettings",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kreece/sfdx/camp-boto/force-app/main/default/remoteSiteSettings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1529359956816,
+            "changeTime": 1529359956816,
+            "contentHash": "cd5c46c2655e1883cf8333858c27cfe002f690b8"
+        }
+    ]
+]
