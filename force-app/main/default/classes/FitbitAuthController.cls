@@ -1,4 +1,4 @@
-public class FitbitAuthController 
+public with sharing class FitbitAuthController 
 {
 	public PageReference Redirect()
     {

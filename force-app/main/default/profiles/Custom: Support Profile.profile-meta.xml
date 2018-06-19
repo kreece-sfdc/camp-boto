@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <classAccesses>
+        <apexClass>BotDataConstants</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>BotDataHelper</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>DeployMetadata</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>FitbitAuthCallBack</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -10,6 +22,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>FitbitAuthHelper</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>FitbitDataHelper</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <custom>true</custom>
@@ -26,6 +42,16 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Auth_Storage__mdt.User__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Bot_Data__e.Message__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Bot_Data__e.Type__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <layoutAssignments>

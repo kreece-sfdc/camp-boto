@@ -1,4 +1,4 @@
-public class FitbitAuthHelper 
+public with sharing class FitbitAuthHelper 
 {
 	public static string GenerateAuthUrl()
     {
@@ -39,7 +39,6 @@ public class FitbitAuthHelper
         
         if(res.getStatusCode() == 200)
         {
-            system.debug(res.getBody());
         	Map<string, object> resMap = (Map<string, object>)JSON.deserializeUntyped(res.getBody());
             
             string refresh_token = (string)resMap.get('refresh_token');
@@ -65,9 +64,7 @@ public class FitbitAuthHelper
             refreshField.value = refresh_token;
             customMetadata.values.add(refreshField);
 
-            //DeployMetadata.Deploy(customMetadata);
-            
-            GetTodaysActivity(access_token, user);
+            DeployMetadata.Deploy(customMetadata);
         }
     }
     
@@ -104,25 +101,6 @@ public class FitbitAuthHelper
             customMetadata.values.add(accessField);
             
             DeployMetadata.Deploy(customMetadata);
-        }
-    }
-    
-    public static void GetTodaysActivity(string access_token, string user)
-    {
-        //https://api.fitbit.com/1/user/[user-id]/activities/date/[date].json
-        
-        HttpRequest req = new HttpRequest();
-        req.setMethod('POST');
-        req.setEndpoint('https://api.fitbit.com/1/user/' + user + '/activities/date/' + datetime.now().format('yyyy-MM-dd') + '.json');
-        req.setHeader('Authorization', 'Bearer ' + access_token);
-        
-        Http api = new Http();
-        HttpResponse res = api.send(req);
-        
-        if(res.getStatusCode() == 200)
-        {
-            system.debug(res.getBody());
-        	Map<string, object> resMap = (Map<string, object>)JSON.deserializeUntyped(res.getBody()); 
         }
     }
 }
